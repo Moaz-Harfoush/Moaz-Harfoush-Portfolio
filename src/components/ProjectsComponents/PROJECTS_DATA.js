@@ -21,7 +21,7 @@ export const PROJECTS_DATA = [
     title: "Eco-Impact Ledger",
     description:
       "A sophisticated, eco-conscious lighting platform designed to redefine sustainable architectural spaces. It delivers a hyper-refined browsing experience featuring interactive luminaire configurations, dynamic eco-impact metrics, and fluid product comparisons, empowering creators to seamlessly harmonize premium design with energy efficiency.",
-    tags: ["JavaScript ES6", "CSS", "HTML"],
+    tags: ["JavaScript ES6", "Tailwind", "HTML"],
     imagePlaceholder: "/images/ecolume.webp",
     repoUrl: "https://github.com/Moaz-Harfoush/Ecolume",
     liveUrl: "https://ecolume-xi.vercel.app/",
