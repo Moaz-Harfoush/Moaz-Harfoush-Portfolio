@@ -9,6 +9,15 @@ export const PROJECTS_DATA = [
     liveUrl: "https://audiophile-e-commerce-platform.vercel.app/",
   },
   {
+    title: "Weather Now App",
+    description:
+      "An immersive, high-fidelity audio e-commerce platform engineered for seamless luxury shopping. It provides sound enthusiasts with an intuitive multi-page interface, dynamic product discovery, smart cart persistence, and a highly responsive checkout pipeline that guarantees a flawless and robust purchasing journey from browse to order.",
+    tags: ["React.js", "TypeScript", "Axios"],
+    imagePlaceholder: "/images/weather-app.webp",
+    repoUrl: "https://github.com/Moaz-Harfoush/Weather-App",
+    liveUrl: "https://weather-app-alpha-flame-25.vercel.app/",
+  },
+  {
     title: "Multi-Spatial Hub",
     description:
       "A futuristic, multi-dimensional digital gateway engineered to deliver fluid navigation across complex virtual ecosystem networks. It features interactive spatial layout rendering, dynamic interface contextualization, and optimized asset delivery pipelines, providing users with a seamless and highly captivating immersive hub experience.",

@@ -5,6 +5,7 @@ import {
   Terminal,
   ShieldCheck,
   MonitorSmartphone,
+  Radio,
 } from "lucide-react";
 export const ALL_SKILLS = [
   {
@@ -50,10 +51,10 @@ export const ALL_SKILLS = [
     icon: Layers,
   },
   {
-    name: "Material UI (MUI)",
-    feature: "Enterprise UI Design Systems & Theme Engine",
-    techCode: "MUI_COMP",
-    icon: Cpu,
+    name: "Axios",
+    feature: "Asynchronous HTTP Orchestration & Interceptor Pipeline",
+    techCode: "AXIOS_HTTP",
+    icon: Radio,
   },
   {
     name: "Responsive Design",
