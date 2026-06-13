@@ -16,8 +16,7 @@ const Projects = () => {
           description="A curated selection of architecture-driven frontend applications crafted with modern technologies."
         />
 
-        <div className="flex flex-col gap-10 w-full pt-4">
-          {/* Mapping through projects list and passing the 'idx' to enable alternating layouts (left/right image swapping) inside ProjectCard */}
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-8 w-full pt-4">
           {PROJECTS_DATA.map((project, idx) => (
             <ProjectCard key={project.title} project={project} index={idx} />
           ))}
