@@ -126,7 +126,7 @@ const ContactInfoCard = () => {
         <a
           target="_blank"
           rel="noopener noreferrer"
-          href="https://drive.google.com/file/d/1Ho_uwin11zve7qTPD0T9Sx0ZsYeGCJZZ/view"
+          href="https://drive.google.com/file/d/1ERM4wciTR8DnarKSASp_lMFgRNopEwNI/view"
           className="px-4 py-2 uppercase bg-brand-blue hover:bg-brand-blue/80 text-white font-semibold rounded-lg text-xs tracking-wide transition-all duration-300 flex items-center gap-2 shadow-[0_0_20px_rgba(0,119,181,0.2)] w-full sm:w-auto justify-center self-stretch sm:self-auto"
         >
           <FileText className="w-4 h-4" /> Resume

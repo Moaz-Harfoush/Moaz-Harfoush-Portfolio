@@ -60,7 +60,7 @@ const Hero = () => {
             </a>
             <a
               target="blank"
-              href="https://drive.google.com/file/d/1Ho_uwin11zve7qTPD0T9Sx0ZsYeGCJZZ/view"
+              href="https://drive.google.com/file/d/1ERM4wciTR8DnarKSASp_lMFgRNopEwNI/view"
               className="px-6 py-4 uppercase bg-brand-blue duration-300 hover:bg-brand-blue/80 text-white font-semibold rounded-lg text-sm tracking-wide transition-all flex items-center gap-2 shadow-[0_0_20px_rgba(37,99,235,0.3)] w-full sm:w-auto justify-center"
             >
               <FileText className="w-4 h-4" /> Resume
